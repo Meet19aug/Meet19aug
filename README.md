@@ -30,6 +30,7 @@
 - [30 days of Google Cloud](https://drive.google.com/file/d/1634l4JFbRbx_iwnyDEtcmyDeaA15TeMY/view?usp=sharing) - Intro to GCP console and completed   handson labs.
 
 ### Honors & Awards 🏅
+-Selected as a recipient of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
 - [6th National Shotokan Karate Championship](https://drive.google.com/file/d/19h75GT0eBzTNDiVoHx1rroCnFO7H1noF/view?usp=sharing)I won two gold medal at international level championship one for first price in kumite and one for first price in kata .
 These Championship was supported by 'Nehru Yuva Kendra (Minister of Sport and youth Affairs ,Government of India ) '.
 Affiliated with International Shotokan Shobukan Karate Association Japan
