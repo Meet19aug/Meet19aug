@@ -62,7 +62,8 @@ Member : Sportaccord & International World Games Association (IWGA)
     </a>
 </p>  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Meet19aug&theme=great-gatsby&show_icons=true" alt="stats"/><br></p>
+
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Meet19aug&theme=great-gatsby&show_icons=true" alt="stats"/><br></p> -->
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="25" height="25"/>
