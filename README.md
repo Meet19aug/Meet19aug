@@ -22,14 +22,14 @@
   makes me Google verified data analyst
 - [Cloud Architecture with Google Cloud Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/HZ7SX496L3YX) - 
   with this certification i introduced myself with Google cloud console and their features.
-- [Django for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/6HVX3XEJPBAJ) Python web           framework that help me to create dynamic web apps.
+- [Django for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/6HVX3XEJPBAJ) Python web framework that help me to create dynamic web apps.
 - [Google IT Automation Professional Certificate](https://www.youracclaim.com/badges/392eb120-7e39-43f6-84db-2c2d0dbfdf6a?source=linked_in_profile) - 
   in this specialization i completed the work for automating tasks using python language and learn about it's automation and basic feature.
-- michigan universityn([Python for Everybody Specialization ]                                                                                           (https://www.coursera.org/account/accomplishments/specialization/certificate/G2CAAJ88G36A)) - Python applied in real world usecases. 
+- [Python for Everybody Specialization-Michigan University](https://www.coursera.org/account/accomplishments/specialization/certificate/G2CAAJ88G36A)) - Python applied in real world usecases. 
 - [Google IT Support Professional Certificate](https://www.youracclaim.com/badges/60f6cdac-7078-455c-a865-09f192ac8b36?source=linked_in_profile) - 
   develop skill to troubleshoot own and others basic issues and develop strong communication skills.
-- [Industrial IoT on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/EZPKX959U6AV) - Iot tech used with Google     cloud plateform.
-- [30 days of Google Cloud](https://drive.google.com/file/d/1634l4JFbRbx_iwnyDEtcmyDeaA15TeMY/view?usp=sharing) - Intro to GCP console and completed   handson labs.
+- [Industrial IoT on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/EZPKX959U6AV) - Iot tech used with Google cloud plateform.
+- [30 days of Google Cloud](https://drive.google.com/file/d/1634l4JFbRbx_iwnyDEtcmyDeaA15TeMY/view?usp=sharing) - Intro to GCP console and completed handson labs.
 
 ## Honors & Awards 🏅
 - Selected as a recipient of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
@@ -60,7 +60,6 @@ Member : Sportaccord & International World Games Association (IWGA)
   
 </p>
 <br/>
-
 ## 📊 My Github Status
 <p align="center">
     <a href="https://github.com/Meet19aug/github-readme-streak-stats">
