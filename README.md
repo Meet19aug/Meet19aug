@@ -59,24 +59,21 @@ Member : Sportaccord & International World Games Association (IWGA)
 
   
 </p>
-<br/>
+
 ## 📊 My Github Status
+</br>
 <p align="center">
     <a href="https://github.com/Meet19aug/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Meet Patel's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Meet19aug&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727"/>
     </a>
 </p>  
 
-<br/>
-<!--  <p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Meet19aug/github-readme-stats"><img alt="Meet Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Meet19aug&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  </p> -->
   <p align="center">
   <a href="https://github.com/Meet19aug/github-readme-stats"><img alt="Meet Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet19aug&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
-
-<br/>
-<br/>
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Meet19aug&theme=great-gatsby&show_icons=true" alt="stats"/><br></p> -->
 <div align="center">
