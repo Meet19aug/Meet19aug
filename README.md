@@ -30,6 +30,7 @@
   develop skill to troubleshoot own and others basic issues and develop strong communication skills.
 - [Industrial IoT on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/EZPKX959U6AV) - Iot tech used with Google cloud plateform.
 - [30 days of Google Cloud](https://drive.google.com/file/d/1634l4JFbRbx_iwnyDEtcmyDeaA15TeMY/view?usp=sharing) - Intro to GCP console and completed handson labs.
+- [GirlScript Foundation](https://drive.google.com/file/d/1vONx4kB1ZAoe3IvqfG5IGWPMXQOmFKmi/view?usp=sharing) - GirlScript Winter Of Contributing - 2021
 
 ## Honors & Awards 🏅
 - Selected as a recipient of [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program) designed to upskill professionals interested in using emerging Machine Learning concepts to enhance organization's IT infrastructure.
