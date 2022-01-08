@@ -69,9 +69,9 @@ Member : Sportaccord & International World Games Association (IWGA)
     </a>
 </p>  
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/Meet19aug/github-readme-stats"><img alt="Meet Patel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Meet19aug&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- </p> -->
+ </p>
   <p align="center">
   <a href="https://github.com/Meet19aug/github-readme-stats"><img alt="Meet Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet19aug&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
