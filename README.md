@@ -28,6 +28,7 @@
 - [Python for Everybody Specialization-Michigan University](https://www.coursera.org/account/accomplishments/specialization/certificate/G2CAAJ88G36A)) - Python applied in real world usecases. 
 - [Google IT Support Professional Certificate](https://www.youracclaim.com/badges/60f6cdac-7078-455c-a865-09f192ac8b36?source=linked_in_profile) - 
   develop skill to troubleshoot own and others basic issues and develop strong communication skills.
+- [AWS Machine Learning Foundations course](https://drive.google.com/file/d/1D9zOPQMgyPvAHp2HDjk3HIRdUYmIPdw2/view?usp=sharing) - AWS Machine Learning Scholarship
 - [Industrial IoT on Google Cloud Platform](https://www.coursera.org/account/accomplishments/certificate/EZPKX959U6AV) - Iot tech used with Google cloud plateform.
 - [30 days of Google Cloud](https://drive.google.com/file/d/1634l4JFbRbx_iwnyDEtcmyDeaA15TeMY/view?usp=sharing) - Intro to GCP console and completed handson labs.
 - [GirlScript Foundation](https://drive.google.com/file/d/1vONx4kB1ZAoe3IvqfG5IGWPMXQOmFKmi/view?usp=sharing) - GirlScript Winter Of Contributing - 2021
