@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Meet+Patel's+Github+Profile..." alt="Meet Patel's Profile Banner" />
-</p> -->
+</p>
 
 ## Hi there,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">I'm Meet!
 <a href="https://www.linkedin.com/in/meet-patel-a048231a0/" target=”_blank”>
@@ -79,7 +79,7 @@ Member : Sportaccord & International World Games Association (IWGA)
  </p>
   <p align="center">
   <a href="https://github.com/Meet19aug/github-readme-stats"><img alt="Meet Patel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet19aug&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </p>
+  </p>  
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Meet19aug&theme=great-gatsby&show_icons=true" alt="stats"/><br></p> -->
 <div align="center">
