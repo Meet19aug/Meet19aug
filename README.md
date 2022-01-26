@@ -1,6 +1,6 @@
-<p align="center">
+<!---<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Playball&color=14E3F7FF&size=45&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+Meet+Patel's+Github+Profile..." alt="Meet Patel's Profile Banner" />
-</p>
+</p>--->
 
 ## Hi there,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">I'm Meet!
 <a href="https://www.linkedin.com/in/meet-patel-a048231a0/" target=”_blank”>
