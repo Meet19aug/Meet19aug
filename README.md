@@ -18,8 +18,8 @@
 ## About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻 I'm passionate about Data Analysis, Cloud Computing, Web Dev, Machine Learning & I enjoy learning new things. </br>
-🤗 I'm always open to learn new things and currently i am working on my DSA skills, App development using flutter skill, ML models understanding, and data analyst skill.</br>
-🎯 2021 Goal : Contribute to as many open source project as possible and strongly develope DSA and problem solving skills.</br>
+🤗 I'm always open to learn new things and currently i am working on my DSA skills, MERN stack,App development using flutter, ML models understanding, & IELTS for better communication.</br>
+🎯 2022 Goal : Contribute to as many open source project as possible and strongly develope DSA and problem solving skills.</br>
 
 ## My Experiences 🙌
 - [Google Data Analytics professional Certificate](https://www.credly.com/badges/41b8a65d-225c-4788-a85e-96582e38edb4?source=linked_in_profile) 
