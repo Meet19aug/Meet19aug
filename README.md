@@ -1,13 +1,21 @@
 ## Hi there,<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px">I'm Meet!
-<a href="https://www.linkedin.com/in/meet-patel-a048231a0/" target=”_blank”>
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+
+<div>
+<a href="https://www.linkedin.com/in/meet-patel-a048231a0/" target=”_blank” >
+  <img align="left" width="24px" src="https://www.svgrepo.com/show/81143/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/MeetPat82332235" target=”_blank”>
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://www.svgrepo.com/show/157844/twitter.svg" />
 </a>
 <a href="mailto:meetpatel19aug@gmail.com" target=”_blank”>
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://www.svgrepo.com/show/243092/gmail.svg" />
 </a>
+<a href="https://cuvette.tech/app/public/profile/63809f7fb9330a2ff22c20ff" target=”_blank”>
+  <img align="left" width="26px" src="https://www.svgrepo.com/show/335997/cuvette.svg" />
+</a>
+</div>
+
+
 
 <br />
 
